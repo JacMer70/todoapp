@@ -19,7 +19,7 @@ app.include_router(todos.router)
 
 origins = [
    "http://localhost:3000",
-   "https://todoapp-qq7e.onrender.com",
+   "https://vercel.com/jacquesmerindol-4288s-projects",
 ]
 
 # CORS configuration, needed for frontend development
