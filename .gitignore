@@ -1,0 +1,21 @@
+# created by virtualenv automatically
+# Exclure le fichier .env (variables d'environnement)
+.env
+
+# Exclure les fichiers de configuration locaux
+*.local
+*.log
+
+# Exclure les dossiers de dépendances
+node_modules/
+__pycache__/
+*.pyc
+
+# Exclure les fichiers générés par l’éditeur
+.vscode/
+.idea/
+
+# Exclure les fichiers temporaires
+*.tmp
+*.swp
+
